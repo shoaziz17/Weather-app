@@ -1,0 +1,17 @@
+.infos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.additional{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.additional div small:nth-child(1){
+    margin-right: 20px;
+}
